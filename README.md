@@ -31,7 +31,7 @@ echo "# Cambios no guardados" > temporal.py
 git stash 
 
 
-Comandos enviados
+## Comandos enviados
 
 C:\>mkdir ProyectoTerminal
 
